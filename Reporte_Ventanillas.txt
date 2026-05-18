@@ -1,0 +1,5 @@
+=== Reporte por Ventanilla ===
+Ventanilla 1 (Preferencial: Sí) - Total Atenciones: 0
+Ventanilla 2 (Preferencial: No) - Total Atenciones: 0
+Ventanilla 3 (Preferencial: No) - Total Atenciones: 0
+Ventanilla 4 (Preferencial: No) - Total Atenciones: 0
